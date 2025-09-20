@@ -2,3 +2,6 @@
 /=4.2.0
 /irt_icc_interactive.ipynb
 /irt_icc_plotly copy.ipynb
+node_modules
+package-lock.json
+package.json
